@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/real-time-chat-app.git
+git clone https://github.com/arpies12/real-time-chat-app.git
 cd real-time-chat-app
 
 Install dependencies:
